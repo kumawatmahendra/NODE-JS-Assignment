@@ -1,0 +1,11 @@
+{
+  "name": "node-js-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem-2.js",
+  "scripts": {
+    "start": "nodemon problem-2"
+  },
+  "author": "",
+  "license": "ISC"
+}

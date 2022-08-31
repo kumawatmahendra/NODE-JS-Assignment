@@ -1,0 +1,12 @@
+{
+  "name": "problem-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem-3.js",
+  "scripts": {
+    "start": "nodemon problem-3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
